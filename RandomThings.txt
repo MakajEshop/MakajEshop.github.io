@@ -1,0 +1,65 @@
+.ShopContainer{
+    width: 275px;
+    height: 350px;
+    border-radius: 0.5em;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.shop>a{
+    color: black;
+}
+
+.shop>a:nth-of-type(1+3n){
+    margin-left: 0;
+}
+
+.shop>.ShopContainer>a>img{
+    max-height: 300px;
+    max-width: 275px;
+    border-radius: 0.5em;
+}
+            
+            
+            
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_1.png"><img src="Images/Run_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Run_T-shirt_2.png"><img src="Images/Run_T-shirt_2.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Bike_T-shirt_1.png"><img src="Images/Bike_T-shirt_1.png" alt="NewRelease_4"><br>Tshirt4<br><i>Price: 35$</i></a></div>
+
+            <div class="ShopContainer"><a href="Images/new-release_3.jpg"><img src="Images/new-release_3.jpg" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_1.png"><img src="Images/Football_shorts_1.png" alt="NewRelease_2"><br>Shorts1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_2.png"><img src="Images/Football_shorts_2.png" alt="NewRelease_3"><br>Shorts2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_3.png"><img src="Images/Football_shorts_3.png" alt="NewRelease_4"><br>Shorts3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/new-release_3.jpg"><img src="Images/new-release_3.jpg" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_1.png"><img src="Images/Football_shorts_1.png" alt="NewRelease_2"><br>Shorts1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_2.png"><img src="Images/Football_shorts_2.png" alt="NewRelease_3"><br>Shorts2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_3.png"><img src="Images/Football_shorts_3.png" alt="NewRelease_4"><br>Shorts3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/new-release_3.jpg"><img src="Images/new-release_3.jpg" alt="NewRelease_1"><br>Tshirt1<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_1.png"><img src="Images/Football_shorts_1.png" alt="NewRelease_2"><br>Tshirt2<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_2.png"><img src="Images/Football_shorts_2.png" alt="NewRelease_3"><br>Tshirt3<br><i>Price: 35$</i></a></div>
+            <div class="ShopContainer"><a href="Images/Football_shorts_3.png"><img src="Images/Football_shorts_3.png" alt="NewRelease_4"><br>Shorts3<br><i>Price: 35$</i></a></div>
